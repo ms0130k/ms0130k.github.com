@@ -1,5 +1,8 @@
 # ms0130k.github.com
 
+```c
+printf("%s로 %s하는 %s.", "취미", "개발", "개발자");
+```
 <!-- Heading -->
 
 # Heading 1
