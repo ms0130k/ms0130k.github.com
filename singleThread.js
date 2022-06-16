@@ -5,7 +5,7 @@ function b() {
 function a() {
 	b();
 	var sum = 0;
-	for (var i = 0; i < 900000000; i++) {sum += i};
-	console.log(sum);
+	for (var i = 0; i < 9000000000; i++) {sum += i};
+	console.log('test3');
 }
 a();
