@@ -1,5 +1,6 @@
+setTimeout(() => console.log('test1'), 0);
 function b() {
-	setTimeout(() => console.log('test'), 100);
+	setTimeout(() => console.log('test2'), 0);
 }
 function a() {
 	b();
