@@ -1,4 +1,4 @@
-import{P as _,a as d}from"./PageTwoColumn-ChzK7Q4T.js";import{I as m}from"./info-table-DUSDjXaL.js";import{d as u,c as t,a as l,w as g,F as c,b as e,t as a,f as p,o as s,e as v,g as b,_ as h}from"./index-BxuRitVy.js";const f={class:"ceo-page"},C={class:"ceo-content"},w={class:"ceo-profile"},y=["src"],P={class:"ceo-name"},V={class:"greeting-section"},x={class:"greeting-body"},k={key:0},B={class:"company-table-section"},E="(주)영진화학 홈페이지를 찾아주셔서 진심으로 감사드립니다.",I=`
+import{P as _,a as d}from"./PageTwoColumn-pf-B9n2H.js";import{I as m}from"./info-table-Dkyu32op.js";import{d as u,c as t,a as l,w as g,F as c,b as e,t as a,f as p,o as s,e as v,g as b,_ as h}from"./index-BYt9KXic.js";const f={class:"ceo-page"},C={class:"ceo-content"},w={class:"ceo-profile"},y=["src"],P={class:"ceo-name"},V={class:"greeting-section"},x={class:"greeting-body"},k={key:0},B={class:"company-table-section"},E="(주)영진화학 홈페이지를 찾아주셔서 진심으로 감사드립니다.",I=`
 30년의 노하우로 다양한 스티로폼 포장재 및 제품 제작이 가능합니다. 다양한 택배용 스티로폼 박스 및 완충제용 박스/ 패드 보유하고 있으며, 원하시는 사이즈의 완충제 생산이 가능합니다.
 저희 영진화학은 1991년 8월 설립된 이후 제품개발 및 최신 자동화 설비로 품질 향상에 최선을 다하고 있습니다.
 더불어 친환경에 부응코자 생산에서부터 스티로폼 재활용까지 품질 및 친환경 제일주의를 추구하는 기업으로 항상 정진하고 있습니다.
