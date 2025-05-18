@@ -1,0 +1,8 @@
+import{P as u,a as g}from"./PageTwoColumn-D57xNvGq.js";import{I as m}from"./info-table-CSRB5RaF.js";import{d as p,c as t,a as o,w as b,F as c,b as e,t as a,h as v,e as i,o as l,_ as h}from"./index-C-6KQD9f.js";const f={class:"ceo-page"},w={class:"ceo-content"},C={class:"ceo-profile"},x=["src"],y={class:"greeting-section"},V={class:"greeting-body"},k={class:"ceo-rank"},B={class:"ceo-name"},I={class:"company-table-section"},P=`더 좋은 스티로폼!
+친환경기업 영진이 만듭니다!`,E=`저희 회사는 1991년 8월 설립된 이후 제품개발 및 최신 자동화 설비로 품질 향상에 최선을 다하고 있습니다.
+
+더불어 친환경에 부응하고자 생산에서부터 스티로폼 재활용까지 품질 및 친환경 제일주의를 추구하는 기업으로 항상 정진하고 있습니다. 고객 여러분의 소중한 관심을 최대한 존중하여 신뢰가 더욱 깊은 기업으로 최고의 만족을 드리기 위하여 끊임없이 노력하는 기업이 될 것을 약속 드립니다.
+
+그동안 쌓아온 기술과 신용을 바탕으로 고객 여러분께 보답하고자 하오니 변함없는 성원을 부탁드립니다. 감사합니다.
+`,N=p({__name:"CeoView",setup(S){const s={name:"박명환",title:"대표 이사",image:"/images/ceo/ceo4.jpg"},r=[{label:"회사명",value:"주식회사 영진화학"},{label:"설립일",value:"1991년 08월 13일"},{label:"주요생산품",value:"EPS 스티로폼 / 스티로폼 금형 프레임"},{label:"대표자",value:"박명환"},{label:"소재지",value:"경기도 김포시 대곶면 대곶로 202번길 215 (송마리 245-1)"},{label:"전화번호",value:"031-997-0280"},{label:"팩스번호",value:"031-997-0281"},{label:"대지",value:"3,000평"},{label:"공장규모",value:"건물(연면적) 2,000평"},{label:"형태",value:"자가"}];return(T,n)=>(l(),t(c,null,[o(u,{title:"CEO 인사말"}),o(g,null,{right:b(()=>[e("div",f,[e("div",w,[e("div",C,[e("img",{src:s.image,alt:"대표님 사진",class:"ceo-image"},null,8,x)]),e("div",y,[e("h2",{class:"greeting-subtitle"},a(P)),e("div",V,[(l(!0),t(c,null,v(E.split(`
+`),(_,d)=>(l(),t("span",{key:d},[i(a(_),1),n[0]||(n[0]=e("br",null,null,-1))]))),128))]),e("h3",k,[i(a(s.title)+" ",1),e("span",B,a(s.name),1)])])]),e("div",I,[o(m,{rows:r})])])]),_:1})],64))}}),L=h(N,[["__scopeId","data-v-5adb0a3f"]]);export{L as default};
