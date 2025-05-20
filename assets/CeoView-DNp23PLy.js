@@ -1,4 +1,4 @@
-import{P as u,a as g}from"./PageTwoColumn-D57xNvGq.js";import{I as m}from"./info-table-CSRB5RaF.js";import{d as p,c as t,a as o,w as b,F as c,b as e,t as a,h as v,e as i,o as l,_ as h}from"./index-C-6KQD9f.js";const f={class:"ceo-page"},w={class:"ceo-content"},C={class:"ceo-profile"},x=["src"],y={class:"greeting-section"},V={class:"greeting-body"},k={class:"ceo-rank"},B={class:"ceo-name"},I={class:"company-table-section"},P=`더 좋은 스티로폼!
+import{P as u,a as g}from"./PageTwoColumn-CLy7q6gE.js";import{I as m}from"./info-table-Cg97i00t.js";import{d as p,c as t,a as o,w as b,F as c,b as e,t as a,h as v,e as i,o as l,_ as h}from"./index-Don1-XAb.js";const f={class:"ceo-page"},w={class:"ceo-content"},C={class:"ceo-profile"},x=["src"],y={class:"greeting-section"},V={class:"greeting-body"},k={class:"ceo-rank"},B={class:"ceo-name"},I={class:"company-table-section"},P=`더 좋은 스티로폼!
 친환경기업 영진이 만듭니다!`,E=`저희 회사는 1991년 8월 설립된 이후 제품개발 및 최신 자동화 설비로 품질 향상에 최선을 다하고 있습니다.
 
 더불어 친환경에 부응하고자 생산에서부터 스티로폼 재활용까지 품질 및 친환경 제일주의를 추구하는 기업으로 항상 정진하고 있습니다. 고객 여러분의 소중한 관심을 최대한 존중하여 신뢰가 더욱 깊은 기업으로 최고의 만족을 드리기 위하여 끊임없이 노력하는 기업이 될 것을 약속 드립니다.
