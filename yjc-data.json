@@ -1,6 +1,6 @@
 [
   {
-    "name": "김치 2호(5kg)_멍게",
+    "name": "BOX 2호(5kg)_멍게",
     "outer": "260*260*250",
     "inner": "220*220*200",
     "quantity": "20*",
@@ -13,7 +13,7 @@
     "innerHeight": "200"
   },
   {
-    "name": "김치 2.5호(7kg)",
+    "name": "BOX 2.5호(7kg)",
     "outer": "335*310*250",
     "inner": "290*260*190",
     "quantity": "10*",
@@ -26,7 +26,7 @@
     "innerHeight": "190"
   },
   {
-    "name": "김치 3호(10kg)",
+    "name": "BOX 3호(10kg)",
     "outer": "385*295*270",
     "inner": "330*245*200",
     "quantity": "12*",
@@ -39,7 +39,7 @@
     "innerHeight": "200"
   },
   {
-    "name": "김치 4호(15kg)",
+    "name": "BOX 4호(15kg)",
     "outer": "415*305*365",
     "inner": "365*255*290",
     "quantity": "8*",
@@ -52,7 +52,7 @@
     "innerHeight": "290"
   },
   {
-    "name": "김치 5호(20kg)",
+    "name": "BOX 5호(20kg)",
     "outer": "460*370*315",
     "inner": "400*310*250",
     "quantity": "10*",
@@ -65,7 +65,7 @@
     "innerHeight": "250"
   },
   {
-    "name": "김치 6호(블루10kg)",
+    "name": "BOX 6호(블루10kg)",
     "outer": "530*410*300",
     "inner": "460*340*230",
     "quantity": "8*",
@@ -418,15 +418,15 @@
   {
     "name": "어상자 5kg(신)",
     "outer": "505*345*185",
-    "inner": "490*295*100",
+    "inner": "450*290*125",
     "quantity": "12*",
     "mainCategory": "어상자 BOX",
     "outerWidth": "505",
     "outerDepth": "345",
     "outerHeight": "185",
-    "innerWidth": "490",
-    "innerDepth": "295",
-    "innerHeight": "100"
+    "innerWidth": "450",
+    "innerDepth": "290",
+    "innerHeight": "125"
   },
   {
     "name": "어상자 7.5kg",
