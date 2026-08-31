@@ -1,5 +1,18 @@
 [
   {
+    "name": "BOX 1호",
+    "outer": "310*240*180",
+    "inner": "270*200*120",
+    "quantity": "24*",
+    "mainCategory": "김치 BOX",
+    "outerWidth": "310",
+    "outerDepth": "240",
+    "outerHeight": "180",
+    "innerWidth": "270",
+    "innerDepth": "200",
+    "innerHeight": "120"
+  },
+  {
     "name": "BOX 2호(5kg)_멍게",
     "outer": "260*260*250",
     "inner": "220*220*200",
@@ -80,7 +93,7 @@
   {
     "name": "블루베리 1kg",
     "outer": "310*240*180",
-    "inner": "270*200*200",
+    "inner": "270*200*120",
     "quantity": "24*",
     "mainCategory": "블루베리 BOX",
     "outerWidth": "310",
@@ -88,12 +101,12 @@
     "outerHeight": "180",
     "innerWidth": "270",
     "innerDepth": "200",
-    "innerHeight": "200"
+    "innerHeight": "120"
   },
   {
     "name": "블루베리 2kg",
     "outer": "310*240*255",
-    "inner": "270*195*360",
+    "inner": "270*195*200",
     "quantity": "16*",
     "mainCategory": "블루베리 BOX",
     "outerWidth": "310",
@@ -101,7 +114,7 @@
     "outerHeight": "255",
     "innerWidth": "270",
     "innerDepth": "195",
-    "innerHeight": "360"
+    "innerHeight": "200"
   },
   {
     "name": "블루베리 3kg",
@@ -245,19 +258,6 @@
     "innerWidth": "300",
     "innerDepth": "230",
     "innerHeight": "150"
-  },
-  {
-    "name": "김1호(3~4kg)",
-    "outer": "310*240*180",
-    "inner": "270*200*120",
-    "quantity": "24*",
-    "mainCategory": "다용도 BOX",
-    "outerWidth": "310",
-    "outerDepth": "240",
-    "outerHeight": "180",
-    "innerWidth": "270",
-    "innerDepth": "200",
-    "innerHeight": "120"
   },
   {
     "name": "Y-2(멍게 반쪽)",
@@ -830,6 +830,19 @@
     "innerWidth": "285",
     "innerDepth": "225",
     "innerHeight": "128"
+  },
+  {
+    "name": "정육 2구",
+    "outer": "310*230*150",
+    "inner": "125*180*80",
+    "quantity": "28*",
+    "mainCategory": "정육BOX (통형)",
+    "outerWidth": "310",
+    "outerDepth": "230",
+    "outerHeight": "150",
+    "innerWidth": "125",
+    "innerDepth": "180",
+    "innerHeight": "80"
   },
   {
     "name": "갈비 3kg(3칸)",
